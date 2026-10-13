@@ -25,7 +25,6 @@ set hstshijack.payloads                   *:/home/buffermet/git/github.com/bette
 set hstshijack.whitelist                  /home/buffermet/git/github.com/bettercap/caplets/hstshijack/session/whitelist.json
 set hstshijack.ignore                     captive.apple.com,connectivitycheck.gstatic.com,detectportal.firefox.com,www.msftconnecttest.com
 
-net.recon on
 
 set http.proxy.script  /home/buffermet/git/github.com/bettercap/caplets/hstshijack/modules/http.proxy.js
 http.proxy on
